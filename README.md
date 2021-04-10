@@ -11,21 +11,24 @@ But we can try:
 
 ## Infinite list of operators
 * Forget - used to map state with n properties to state with n - m properties,
-  where n, m natural numbers
+  where n, m natural numbers.
 
 * Quasi-morphism (or Analogy (or SameAs)) - closely related to isomophism, equivalence classes and invariants.
 
 * AddProbability - used to map 0% and 100% probabity of some event to arbitrary value between 0 and 1.
 
-* AddQuanstumProbability - for example `AddQuanstumProbability(chess) = [Quantum chess](https://github.com/caphindsight/TrulyQuantumChess/wiki)`
-
   It can change deterministic algorithms to non-deterministic.
+
+* AddQuanstumProbability - for example `AddQuanstumProbability(chess) = Quantum chess`.
+
+  [Rules of quantum chess](https://github.com/caphindsight/TrulyQuantumChess/wiki).
+
 * FunToRel = `One way function to two way or to relation`
   + For example: `f("Simulation of Brownian motion") -> "Brownian bridge"`
 
-* MinimizeComplexity (or Simplify) - obvious, but we can think about minimizing Kolmogorov complexity
+* MinimizeComplexity (or Simplify) - obvious, but we can think about minimizing Kolmogorov complexity.
 
-* ChangeState - map current state to not equivalent to it, or extend set by one element, that not equivalent to others (find a new element in [Group](https://en.wikipedia.org/wiki/Group_(mathematics)))
+* ChangeState - map current state to not equivalent to it, or extend set by one element, that not equivalent to others (find a new element in [Group](https://en.wikipedia.org/wiki/Group_(mathematics))).
 
 ## Possible examples of using
 
