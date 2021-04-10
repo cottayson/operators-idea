@@ -17,7 +17,7 @@ But we can try:
 
 * AddProbability - used to map 0% and 100% probabity of some event to arbitrary value between 0 and 1.
 
-* AddQuanstumProbability - for example `AddQuanstumProbability(chess) = Quatum chess`
+* AddQuanstumProbability - for example `AddQuanstumProbability(chess) = [Quantum chess](https://github.com/caphindsight/TrulyQuantumChess/wiki)`
 
   It can change deterministic algorithms to non-deterministic.
 * FunToRel = `One way function to two way or to relation`
@@ -65,6 +65,6 @@ getRating ::  Object -> Float
 TO DO continue description...
 
 ## Short Two Side idea:
-Оценка считается удачной если пользователь смог оценить впринципе(не важно какая оценка положительная или отрицательная важна её фактическая полезность с точки зрения полезной информации)
+Оценка считается удачной если пользователь смог оценить принципиально (не важно какая оценка положительная или отрицательная важна её фактическая полезность с точки зрения полезности информации)
 Первая сторона проблемы при удачной оценке пользователем, что мы может просто её запомнить
-Вторая сторона: пользавтель кроме возможности оценки _объекта_, имеет возможность оценки _множество операторов модифицирующих объект_.
+Вторая сторона: пользователь кроме возможности оценки _объекта_, имеет возможность оценки _множества операторов модифицирующих объект_.
